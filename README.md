@@ -11,3 +11,16 @@ A simple and responsive web application that provides real-time weather updates 
 1. Clone the repository:
    ```bash
    git clone https://github.com/akhileshsharma12/Whether-App.git
+
+## Usage 
+Enter the name of any city to get the current weather.
+Or allow location access to see the weather at your current position.
+
+## Technologies Used
+HTML
+CSS
+JavaScript
+Weather API (like OpenWeatherMap)
+
+## Author
+Akhilesh Sharma
