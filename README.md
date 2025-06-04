@@ -1,26 +1,48 @@
-# Whether App
+# README.md
 
-A simple and responsive web application that provides real-time weather updates using live API data.
+# Weather Application
+
+A simple weather application that allows users to search for the current weather of any city using the OpenWeatherMap API.
 
 ## Features
-- Search weather by city or use your current location
-- Displays temperature, humidity, wind speed, and weather conditions
-- Clean and responsive design for desktops and mobile devices
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/akhileshsharma12/Whether-App.git
+- Search for weather by city name
+- Displays temperature, weather description, humidity, and wind speed
+- Dynamic weather icons based on current conditions
+- Responsive and clean UI
 
-## Usage 
-Enter the name of any city to get the current weather.
-Or allow location access to see the weather at your current position.
+## Project Structure
 
-## Technologies Used
-HTML
-CSS
-JavaScript
-Weather API (like OpenWeatherMap)
+```
+whether application/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── Assets/
+```
 
-## Author
-Akhilesh Sharma
+## Getting Started
+
+1. **Clone or Download the Repository**
+
+2. **Open `index.html` in your browser**
+
+3. **Usage**
+   - Enter a city name in the input box and click the search button.
+   - The weather details for the city will be displayed.
+
+## API
+
+This project uses the [OpenWeatherMap API](https://openweathermap.org/api).  
+You can replace the API key in `script.js` with your own for production use.
+
+## Customization
+
+- Weather icons can be updated by replacing images in the `Assets` folder.
+- Styles can be customized in `style.css`.
+
+## License
+
+This project is for educational purposes.
