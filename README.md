@@ -43,6 +43,12 @@ You can replace the API key in `script.js` with your own for production use.
 - Weather icons can be updated by replacing images in the `Assets` folder.
 - Styles can be customized in `style.css`.
 
+## Technologies Used
+
+- Html
+- CSS
+- JavasScript
+
 ## License
 
 This project is for educational purposes.
